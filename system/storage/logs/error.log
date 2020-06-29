@@ -1,0 +1,5 @@
+2020-06-29 7:28:38 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'shop_shub' in C:\wamp\www\shop.local\system\library\db\mysqli.php on line 7
+2020-06-29 7:28:38 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\wamp\www\shop.local\system\library\db\mysqli.php on line 10
+2020-06-29 7:28:38 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\wamp\www\shop.local\system\library\db\mysqli.php on line 10
+2020-06-29 7:28:38 - PHP Notice:  Undefined variable: mysql in C:\wamp\www\shop.local\install\controller\install\step_3.php on line 280
+2020-06-29 7:28:38 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\wamp\www\shop.local\install\controller\install\step_3.php on line 280
